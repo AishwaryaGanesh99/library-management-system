@@ -1,3 +1,7 @@
+![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
+![Git](https://img.shields.io/badge/Git-CLI-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)
+
 Library Management System (Java)
 ================================
 
