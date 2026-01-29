@@ -30,17 +30,18 @@ Technologies Used
 Project Structure
 -----------------
 
+```
 src/
 └── library/
-├── model/
-│   ├── Book.java
-│   └── User.java
-├── service/
-│   └── LibraryService.java
-├── util/
-│   └── FileUtil.java
-└── Main.java
-
+    ├── model/
+    │   ├── Book.java
+    │   └── User.java
+    ├── service/
+    │   └── LibraryService.java
+    ├── util/
+    │   └── FileUtil.java
+    └── Main.java
+```
 
 User Roles
 ----------
