@@ -106,8 +106,8 @@ Future Enhancements
 Author
 ------
 
-Aishwarya
-GitHub: https://github.com/AishwaryaGanesh99
+- Authored by: Aishwarya
+- GitHub: https://github.com/AishwaryaGanesh99
 
 
 License
